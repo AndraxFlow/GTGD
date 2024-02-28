@@ -1,5 +1,6 @@
 #include<iostream>
-#include"Hello2.cpp"
+#include "global.hpp"
+
 int main(){
     std::cout << "abcd" << std::endl;
     
